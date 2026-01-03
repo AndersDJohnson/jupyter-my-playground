@@ -4,9 +4,14 @@
 
 See:
 * https://code.visualstudio.com/docs/datascience/data-science-tutorial#_prepare-the-data
-* etc.
-
-Data in `titantic3.csv` from https://hbiostat.org/data/.
+* https://scikit-learn.org/stable/user_guide.html
+    * List of available machine learning algorithms.
+* https://scikit-learn.org/stable/machine_learning_map.html
+    * Choosing the right estimator (machine learning algorithms)
+* https://scikit-learn.org/stable/modules/naive_bayes.html
+    * The Naïve Bayes algorithm, a common algorithm for classification problems. Add a cell with the following code to create and train the algorithm.
+* https://hbiostat.org/data/
+    * Data in `titantic3.csv`.
 
 ## Setup
 
